@@ -23,8 +23,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "REVUPMediaTnkPub",
-            url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.0.0/REVUPMediaTnkPub.zip",
-            checksum: "c894510bf211cc89c0e9e7af9ef8c64a6741c19fe5ea770a8d454a15515dd814"
+            url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.0.0/REVUPMediaTnkPub.xcframework.zip",
+            checksum: "c2fc95fa288bbce9a33a03ac3fc3c6e4e40521c471c6c0739703a249cf0579da"
         ),
         .binaryTarget(
             name: "TnkPubSdk",
